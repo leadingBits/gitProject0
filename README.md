@@ -8,3 +8,6 @@ Master Branch: Default branch. Keep it.
 Working Areas:
  1. Working Directory 2. Staging/Index Area
  3. GitRepository 4. Remote Repository e.g. Git Hub.
+
+
+#newly added comment
